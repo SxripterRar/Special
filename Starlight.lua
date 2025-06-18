@@ -1,4 +1,4 @@
--- c00lkidd X Bluudud Rainbow (not gay)
+-- Starlight special!!!!!! omfg (pls don't skid)
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/SxripterRar/Starlight/refs/heads/main/notification.lua", true))()
+local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/SxripterRar/Special/refs/heads/main/notify.lua", true))()
 local Converted = {
 	["_Starlight"] = Instance.new("ScreenGui");
 	["_Frame"] = Instance.new("Frame");
